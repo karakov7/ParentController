@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParentController</string>
+    <string name="title_activity_maps">Родительский контроллер</string>
+</resources>
